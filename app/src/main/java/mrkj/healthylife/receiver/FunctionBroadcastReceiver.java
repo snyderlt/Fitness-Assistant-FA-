@@ -20,7 +20,7 @@ import mrkj.healthylife.utils.SaveKeyValues;
 /**
  * 用于接收定时服务发送的广播
  * 接收后提醒用户
- * Created by Administrator on 2016/6/3.
+ * Created by Administrator on 2025/7/3.
  */
 public class FunctionBroadcastReceiver extends BroadcastReceiver{
     @Override

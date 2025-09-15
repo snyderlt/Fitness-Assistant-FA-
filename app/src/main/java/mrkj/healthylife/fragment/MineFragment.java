@@ -42,7 +42,7 @@ import mrkj.library.wheelview.circleimageview.CircleImageView;
 
 /**
  * 我的界面
- * Created by Administrator on 2016/5/27.
+ * Created by Administrator on 2025/7/27.
  */
 public class MineFragment extends BaseFragment implements View.OnClickListener {
     private static final int CHANGE = 200;
@@ -93,7 +93,7 @@ public class MineFragment extends BaseFragment implements View.OnClickListener {
         food = (TextView) view.findViewById(R.id.food_hot);
         food.setOnClickListener(this);
         want = (TextView) view.findViewById(R.id.want);
-        want.setText("In" + SaveKeyValues.getStringValues("plan_stop_date","2016/6/16")+"Weight reached "+SaveKeyValues.getIntValues("weight",50)+" kg");
+        want.setText("In" + SaveKeyValues.getStringValues("plan_stop_date","2025/7/16")+"Weight reached "+SaveKeyValues.getIntValues("weight",50)+" kg");
         about = (TextView) view.findViewById(R.id.about_btn);
         about.setOnClickListener(this);
         sport_message = (TextView) view.findViewById(R.id.sport_btn);

@@ -12,7 +12,7 @@ import android.widget.TextView;
 import mrkj.healthylife.R;
 
 /**
- * Created by Administrator on 2016/5/21.
+ * Created by Administrator on 2025/7/21.
  */
 public abstract class BaseActivity extends AppCompatActivity{
 

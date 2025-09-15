@@ -1,7 +1,7 @@
 package mrkj.healthylife.entity;
 
 /**
- * Created by Administrator on 2016/6/16.
+ * Created by Administrator on 22025/7/16.
  */
 public class FoodMessage {
     private String food_name;

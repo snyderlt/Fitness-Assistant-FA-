@@ -12,7 +12,7 @@ import com.baidu.location.Poi;
 import java.util.List;
 
 /**
- * Created by Administrator on 2016/6/14.
+ * Created by Administrator on 2025/7/14.
  */
 public class GetLocation {
     public LocationClient mLocationClient = null;

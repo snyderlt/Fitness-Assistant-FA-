@@ -3,7 +3,7 @@ package mrkj.healthylife.entity;
 import java.util.List;
 
 /**
- * Created by Administrator on 2016/6/16.
+ * Created by Administrator on 2025/7/16.
  */
 public class FoodType {
     private String food_type;

@@ -59,7 +59,7 @@ import mrkj.library.wheelview.progressbar.RoundProgressBarHeartBMP;
  * 如果没有先关基础的参考下功能就好
  * 不必深究
  * 这里用到的图标引擎libs包中都已提供
- * Created by Administrator on 2016/5/27.
+ * Created by Administrator on 2025/7/27.
  */
 public class HeartFragment extends BaseFragment implements View.OnClickListener{
     private static final String TAG = HeartFragment.class.getSimpleName();

@@ -5,7 +5,7 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 
 /**
- * Created by Administrator on 2016/5/27.
+ * Created by Administrator on 2025/7/27.
  */
 public class BaseFragment extends Fragment{
 

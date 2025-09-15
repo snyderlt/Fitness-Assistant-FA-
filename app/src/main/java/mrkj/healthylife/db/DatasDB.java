@@ -5,7 +5,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
 /**
- * Created by Administrator on 2016/5/21.
+ * Created by Administrator on 2025/7/21.
  */
 public class DatasDB extends SQLiteOpenHelper {
     private static String DB_NAME = "healthy_db";// 数据库名称

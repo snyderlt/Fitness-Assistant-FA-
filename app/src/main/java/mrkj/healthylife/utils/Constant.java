@@ -1,7 +1,7 @@
 package mrkj.healthylife.utils;
 
 /**
- * Created by Administrator on 2016/5/27.
+ * Created by Administrator on 2025/7/27.
  */
 public class Constant {
 

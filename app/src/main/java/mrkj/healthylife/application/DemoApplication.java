@@ -13,7 +13,7 @@ import mrkj.healthylife.utils.GetLocation;
 import mrkj.healthylife.utils.SaveKeyValues;
 
 /**
- * Created by Administrator on 2016/5/25.
+ * Created by Administrator on 2025/7/25.
  */
 public class DemoApplication extends Application {
 

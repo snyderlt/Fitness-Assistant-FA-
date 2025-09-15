@@ -1,7 +1,7 @@
 package mrkj.healthylife.utils;
 
 /**
- * Created by Administrator on 2016/6/2.
+ * Created by Administrator on 2025/7/2.
  */
 public class HealthyUtils {
 

@@ -13,7 +13,7 @@ import android.provider.MediaStore;
 import android.util.Log;
 
 /**
- * Created by Administrator on 2016/6/4.
+ * Created by Administrator on 2025/7/4.
  */
 public class GetPictureFromLocation {
 

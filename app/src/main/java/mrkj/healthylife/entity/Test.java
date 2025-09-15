@@ -1,7 +1,7 @@
 package mrkj.healthylife.entity;
 
 /**
- * Created by Administrator on 2016/6/14.
+ * Created by Administrator on 2025/7/14.
  */
 public class Test {
     private String address;
