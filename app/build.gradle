@@ -1,0 +1,43 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+
+    defaultConfig {
+        applicationId "mrkj.healthylife"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+//    sourceSets {
+//        main {
+//            jniLibs.srcDirs = ['libs']
+//        }
+//    }
+    /**
+     * 引用aar包
+     */
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    testImplementation 'junit:junit:4.12'
+    implementation 'com.android.support:appcompat-v7:23.3.0'
+    implementation files('libs/achartengine-1.0.0.jar')
+    implementation files('libs/hellocharts-library-1.5.8.jar')
+    implementation 'org.apache.httpcomponents:httpcore:4.4.4'
+    implementation files('libs/BaiduLBS_Android.jar')
+    implementation(name: 'library-debug', ext: 'aar')
+}
